@@ -57,10 +57,10 @@ p{
     height: 10%;
 }
 .soccer{
-    width:30%;
+    width:20%;
     height:19%;
     position: absolute;
-    top: 950px;
+    top: 650px;
     right:20px;
     
 }
@@ -68,7 +68,7 @@ p{
     width:20%;
     height:15%;
     position: absolute;
-    top: 1150px;
+    top: 950px;
     right:20px;
 }
 .place{
