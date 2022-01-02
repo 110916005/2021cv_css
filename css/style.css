@@ -60,7 +60,7 @@ p{
     width:30%;
     height:19%;
     position: absolute;
-    top: 350px;
+    top: 450px;
     right:20px;
     
 }
@@ -68,12 +68,12 @@ p{
     width:20%;
     height:15%;
     position: absolute;
-    top: 520px;
+    top: 600px;
     right:20px;
 }
 .place{
     text-align: center;
-    font-size:16px;
+    font-size:24px;
 
 }
 #p1{
