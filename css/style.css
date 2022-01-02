@@ -1,0 +1,82 @@
+body{
+    margin:10px;
+    background-color: ivory;
+    padding-top: 0rem;
+}
+
+h1{
+    background-color: #97BFB4;
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+    font-size: 3rem;
+    color:white
+}
+h2{
+    background-color: #bff5b2;
+    text-align:center;
+    font-variant: initial;
+    color: rgb(47, 79, 168);
+}
+h3{
+    text-align-last: center;
+}
+p{ 
+   font-size: medium;
+}
+.top-container{
+    text-align: center;
+    position: relative;
+}
+.middle-container{
+    background-color: #CFFFDC;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bottom-container{
+    background-color: #84DFFF;
+    text-decoration-style: solid;
+}
+.contact-me{
+    margin:0%;
+}
+
+#list{
+    font-weight: 50;
+    font-size: 20px;
+}
+.proile-list{
+    text-align: center;
+    font-weight: normal;
+}
+#second{
+    font-size: 24px;
+    font-size-adjust: inherit;
+
+}
+.go{
+    width:25%;
+    height: 10%;
+}
+.soccer{
+    width:30%;
+    height:19%;
+    position: absolute;
+    top: 350px;
+    right:20px;
+    
+}
+.school{
+    width:20%;
+    height:15%;
+    position: absolute;
+    top: 480px;
+    right:20px;
+}
+.place{
+    text-align: center;
+    font-size:12px;
+
+}
+#p1{
+    font-size: 16px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
